@@ -48,3 +48,7 @@ For my version I have printed the "concept" on the card and left the "instructio
 
 
 ### Card Templates
+Front: 
+![Card Front](https://github.com/artisanalcode/ScriptMessageJS/blob/master/letter%5Bfront%5D.png?raw=true "Card Front")
+Back: 
+![Card Back](https://github.com/artisanalcode/ScriptMessageJS/blob/master/letter%5Bback%5D.png?raw=true "Card Front")
